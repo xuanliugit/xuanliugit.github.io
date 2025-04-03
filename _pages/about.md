@@ -27,11 +27,11 @@ My research interests lie at machine learning and large language models for chem
 | See full list in my [Google Scholar profile](https://scholar.google.com/citations?user=XbtWYioAAAAJ).
 
 ## 2025
-**AccFG: Accurate Functional Group Extraction and Molecular Structure Comparison**
+**AccFG: Accurate Functional Group Extraction and Molecular Structure Comparison**<br>
 **Xuan Liu**, Sarathkrishna Swaminathan, Dmitry Zubarev, Brandi Ransom, and Huimin Zhao
 [ [Code](https://github.com/xuanliugit/AccFG) ]
 
-**FGBench: A Dataset and Benchmark for Molecular Property Reasoning at Functional Group-Level in Large Language Models**
+**FGBench: A Dataset and Benchmark for Molecular Property Reasoning at Functional Group-Level in Large Language Models**<br>
 **Xuan Liu**, Siru Ouyang, Xianrui Zhong, Jiawei Han, Huimin Zhao
 Submitted
 
@@ -61,3 +61,4 @@ EMNLP 2023 Demo [ [Paper](https://aclanthology.org/2023.emnlp-demo.36/)]
 **Machine learning-enabled retrobiosynthesis of molecules**<br>
 Tianhao Yu, Aashutosh Girish Boob, Michael J Volk, **Xuan Liu**, Haiyang Cui, Huimin Zhao<br>
 Nature Catalysis [ [Paper](https://www.nature.com/articles/s41929-022-00909-w)]
+

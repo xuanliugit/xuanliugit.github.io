@@ -123,7 +123,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : "7I8zlxsyeABtsQgqsFIsKSAYYE3Qf73B8YmklqhWeT0"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -131,7 +131,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "xuanlllme"
 facebook:
   username               :
   app_id                 :
