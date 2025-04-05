@@ -9,7 +9,7 @@ redirect_from:
 
 Thank you for visiting my website!
 
-I am a Ph.D. candidate at University of Illinois Urbana-Champaign (UIUC), advised by Prof. Huimin Zhao. I received my Master's degree at University of Illinois Chicago (UIC) in 2021 and Bachelor's degree at Xi'an Jiaotong University (XJTU) in 2020.
+I am a Ph.D. candidate at University of Illinois Urbana-Champaign (UIUC). I received my Master's degree at University of Illinois Chicago (UIC) in 2021 and Bachelor's degree at Xi'an Jiaotong University (XJTU) in 2020.
 
 ---
 # Research Interests
@@ -31,9 +31,6 @@ My research interests lie at machine learning and large language models for chem
 **Xuan Liu**, Sarathkrishna Swaminathan, Dmitry Zubarev, Brandi Ransom, and Huimin Zhao
 [ [Code](https://github.com/xuanliugit/AccFG) ]
 
-**FGBench: A Dataset and Benchmark for Molecular Property Reasoning at Functional Group-Level in Large Language Models**<br>
-**Xuan Liu**, Siru Ouyang, Xianrui Zhong, Jiawei Han, Huimin Zhao
-Submitted
 
 ## 2024
 
