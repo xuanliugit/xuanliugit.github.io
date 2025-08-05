@@ -28,11 +28,11 @@ My research interests lie at machine learning and large language models for chem
 
 ## 2025
 **FGBench: A Dataset and Benchmark for Molecular Property Reasoning at Functional Group-Level in Large Language Models**<br>
-**Xuan Liu**, Siru Ouyang, Xianrui Zhong, Jiawei Han, Huimin Zhao
+**Xuan Liu**, Siru Ouyang, Xianrui Zhong, Jiawei Han, Huimin Zhao<br>
 [ [Paper](https://www.arxiv.org/abs/2508.01055) ] | [ [Code](https://github.com/xuanliugit/FGBench) ]
 
 **AccFG: Accurate Functional Group Extraction and Molecular Structure Comparison**<br>
-**Xuan Liu**, Sarathkrishna Swaminathan, Dmitry Zubarev, Brandi Ransom, Nathaniel Park, Kristin Schmidt, and Huimin Zhao
+**Xuan Liu**, Sarathkrishna Swaminathan, Dmitry Zubarev, Brandi Ransom, Nathaniel Park, Kristin Schmidt, and Huimin Zhao<br>
 Journal of Chemical Information and Modeling (2025). | [ [Paper](https://doi.org/10.1021/acs.jcim.5c01317) ] | [ [Code](https://github.com/xuanliugit/AccFG) ]
 
 **Chemoenzymatic synthesis planning guided by synthetic potential score**<br>
