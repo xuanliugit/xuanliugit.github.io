@@ -29,6 +29,7 @@ My research interests lie at machine learning and large language models for chem
 ## 2025
 **FGBench: A Dataset and Benchmark for Molecular Property Reasoning at Functional Group-Level in Large Language Models**<br>
 **Xuan Liu**, Siru Ouyang, Xianrui Zhong, Jiawei Han, Huimin Zhao<br>
+NeurIPS 2025 Datasets and Benchmarks Track<br>
 [ [Paper](https://www.arxiv.org/abs/2508.01055) ] | [ [Code](https://github.com/xuanliugit/FGBench) ]
 
 **AccFG: Accurate Functional Group Extraction and Molecular Structure Comparison**<br>
