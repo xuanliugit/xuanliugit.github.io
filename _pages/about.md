@@ -29,7 +29,7 @@ My research interests lie at machine learning and large language models for chem
 ## 2026
 **Enzyme regioselectivity prediction with neuro-symbolic artificial intelligence**<br>
 **Xuan Liu**\*, Ling Hu\*, Huimin Zhao<br>
-Under review (2026) [ [Technical report](https://uofi.box.com/s/yk77w56en29sm6o5trc2y1ohh3fsh6tm) ] | [ [GitHub](https://xuanliugit.github.io/ARIES/) ]
+Under review (2026) [ [GitHub](https://xuanliugit.github.io/ARIES/) ]
 
 **Design of Biochemical Pathways via AI/ML-Enabled Retrobiosynthesis**<br>
 Hongxiang Li, **Xuan Liu**, Huimin Zhao<br>
